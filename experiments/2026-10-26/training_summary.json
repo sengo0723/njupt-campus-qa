@@ -1,0 +1,55 @@
+{
+  "kind": "formal",
+  "completed": true,
+  "iterations": 3600,
+  "max_epochs": 3,
+  "actual_epochs": 3.0,
+  "training_samples": 1200,
+  "validation_samples": 150,
+  "elapsed_seconds": 341.87124879099974,
+  "peak_memory_gb": 3.143356612,
+  "trainable_parameters": 2293760,
+  "best_step": 799,
+  "best_validation_loss": 0.24022416770458221,
+  "config": {
+    "model": "${PROJECT_ROOT}/models/qwen3-base-mlx",
+    "data": "${PROJECT_ROOT}/data/sft",
+    "train": true,
+    "test": false,
+    "fine_tune_type": "lora",
+    "optimizer": "adamw",
+    "optimizer_config": {
+      "adamw": {
+        "weight_decay": 0.01
+      }
+    },
+    "num_layers": 28,
+    "batch_size": 1,
+    "grad_accumulation_steps": 8,
+    "iters": 3600,
+    "learning_rate": 0.0001,
+    "max_seq_length": 1536,
+    "seed": 42,
+    "mask_prompt": true,
+    "grad_checkpoint": false,
+    "steps_per_report": 20,
+    "steps_per_eval": 400,
+    "save_every": 400,
+    "val_batches": -1,
+    "adapter_path": "${PROJECT_ROOT}/models/lora-adapter",
+    "lora_parameters": {
+      "keys": [
+        "self_attn.q_proj",
+        "self_attn.v_proj"
+      ],
+      "rank": 16,
+      "scale": 2.0,
+      "dropout": 0.05
+    },
+    "report_to": null,
+    "resume_adapter_file": null,
+    "trust_remote_code": false
+  },
+  "dataset_sha256": "bea8af8dacaeaf85ea81ed256e0cd175cb5ca4e43f593704ed554521c933f9a6",
+  "adapter_sha256": "9ecd47e0240d4a634b820c47afa28411698c4e1ff90ae3ce4f9a2bbc341b1bb1"
+}

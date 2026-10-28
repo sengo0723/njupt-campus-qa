@@ -1,0 +1,7 @@
+{
+  "cases_sha256": "403e1e0342073f8f8bad3b1f964b5f986b7584627d4f7b7d7f9e61b2f8224096",
+  "calculator": false,
+  "guardrails": false,
+  "retrieval": "unchanged production full pipeline",
+  "purpose": "Development/validation selection; original test80 is not used here."
+}

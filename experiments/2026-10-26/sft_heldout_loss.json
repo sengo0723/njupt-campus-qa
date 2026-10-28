@@ -1,0 +1,12 @@
+{
+  "base": {
+    "assistant_token_nll": 2.2490766048431396,
+    "perplexity": 9.478979110717773,
+    "examples": 150
+  },
+  "sft": {
+    "assistant_token_nll": 0.22636494040489197,
+    "perplexity": 1.2540332078933716,
+    "examples": 150
+  }
+}

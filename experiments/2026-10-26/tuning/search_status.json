@@ -1,0 +1,35 @@
+{
+  "status": "stopped_by_user",
+  "stopped_at": "2026-10-26T22:10:09.181176+08:00",
+  "reason": "User requested ending tuning if there is no evidence of outperforming standalone RAG. No stable improvement has been established.",
+  "stopped_processes": [
+    {
+      "pid": 61359,
+      "command": [
+        ".venv/bin/python",
+        "scripts/run_tuning_phase3.py"
+      ],
+      "stopped": true
+    },
+    {
+      "pid": 65916,
+      "command": [
+        "${PROJECT_ROOT}/.venv/bin/python",
+        "scripts/tune_lora.py",
+        "train",
+        "--name",
+        "aligned-long-lr1e4",
+        "--data",
+        "data/sft_aligned_long",
+        "--lr",
+        "0.0001",
+        "--iters",
+        "1200"
+      ],
+      "stopped": true
+    }
+  ],
+  "deployment": "Original baseline LoRA and base RAG retained; no tuning weights deployed.",
+  "partial_runs": "Retained as partial, never treated as completed evaluations.",
+  "fresh_test": "No candidate inference performed; final-only test remains unused."
+}

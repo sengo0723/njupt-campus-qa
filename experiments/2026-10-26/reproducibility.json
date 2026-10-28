@@ -1,0 +1,34 @@
+{
+  "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+  "platform": "macOS-26.4.1-arm64-arm-64bit",
+  "packages": {
+    "mlx": "0.32.4",
+    "mlx-lm": "0.32.2",
+    "torch": "2.14.1",
+    "transformers": "5.20.2",
+    "onnxruntime": "1.31.0",
+    "fastapi": "0.162.0",
+    "numpy": "2.5.4"
+  },
+  "artifact_sha256": {
+    "pyproject.toml": "7d4470766ca7abc54530137f9354cc1d905451ccc692c4165f8cecd7e8fdd28d",
+    "uv.lock": "93d5a544e1d98f2d619dee9fce517837a8188cf8f41353ebe7b692bd1a52e970",
+    "requirements-lock.txt": "5fc151916e64628ca0582afb13a85377e0be465eec34218bbb6da20f255eb945",
+    "frontend/pnpm-lock.yaml": "29faa4f040e278962a8c96ac728478086b20fd0449e426349ed51f1a3e88dd41",
+    "config/model_sources.json": "7f074230ff6bade8abc28434a0186cd1f334fd19393b38aee15db335cd638a28",
+    "data/processed/documents.jsonl": "d03135d549500a709a0dde6255f686c8306fc17dd7f9590ca7935bcf6e9572cf",
+    "data/processed/chunks.jsonl": "97946861d53aeb1fcd05c5f61373f97c21ac864520731f8c26aecd3557717474",
+    "data/sft/train.jsonl": "bea8af8dacaeaf85ea81ed256e0cd175cb5ca4e43f593704ed554521c933f9a6",
+    "data/sft/valid.jsonl": "ec20c16bcb2b0fde87f009d4c7b9dc0c497e146dedab13f9105865a01052f6cb",
+    "data/sft/test.jsonl": "929b1fa4177a3f8ca8ce9c7328e140448054cc198db03c964c87d9b38af45136",
+    "data/eval/campus_100.jsonl": "1b9eaf1dc52f60315bef8c198f2fca881890c3ce3ad9faede6404e197ca9abec",
+    "data/eval/calculation_24.jsonl": "0d2f12dd4f13f7ff6a539e227e19c59362e0b77f434fa212275208973016d406",
+    "models/lora-adapter/adapters.safetensors": "9ecd47e0240d4a634b820c47afa28411698c4e1ff90ae3ce4f9a2bbc341b1bb1",
+    "models/qwen3-base-q8_0.gguf": "84fb189998459c7f054a12c0d7a10ee6193095d8780f923cbc3c6cf7e0df60be",
+    "models/qwen3-sft-q8_0.gguf": "25ea1e354de397605f657cc84bf07bba3d6aac6a26639dcb9c2d6b8539f67f66"
+  },
+  "ollama_model_digests": {
+    "njupt-qwen3-sft": "ea2385c93eb46c30a3eb51d6085dd222c25721b1ac1da70e03322134bec91683",
+    "njupt-qwen3-base": "8f0e9c530812fc08daeb0c3a3dda3bbecb534b5a0fdbc175cc2907d31ed7910d"
+  }
+}

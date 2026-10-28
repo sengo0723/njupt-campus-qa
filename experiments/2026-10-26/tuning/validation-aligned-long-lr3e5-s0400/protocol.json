@@ -1,0 +1,13 @@
+{
+  "adapter": "models/tuning/aligned-long-lr3e5-s0400",
+  "strength": 1.0,
+  "runtime": "MLX BF16 + unmerged LoRA",
+  "generation": {
+    "temperature": 0,
+    "repeat_penalty": 1.1,
+    "repeat_last_n": 64,
+    "max_tokens": 768,
+    "seed": 42
+  },
+  "cache_sha256": "9fbb74da2824b9d8a874ef8c6474fd806d2915b54396baa8c69e74ae1b823b3a"
+}

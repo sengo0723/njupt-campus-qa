@@ -1,0 +1,70 @@
+{
+  "sft_rag": {
+    "cases": 60,
+    "completed": 60,
+    "errors": 0,
+    "accuracy": 0.7,
+    "answerable_fact_accuracy": 0.6222222222222222,
+    "unanswerable_refusal_accuracy": 0.9333333333333333,
+    "citation_locatable_rate": 0.9777777777777777,
+    "reference_fact_evidence_coverage": 1.0,
+    "latency_mean_ms": 348.3593944332218,
+    "latency_p95_ms": 469.4410125001012,
+    "by_topic": {
+      "学校概况": {
+        "n": 17,
+        "accuracy": 0.7647058823529411
+      },
+      "本科教学": {
+        "n": 15,
+        "accuracy": 0.7333333333333333
+      },
+      "招生": {
+        "n": 12,
+        "accuracy": 0.5
+      },
+      "学生事务": {
+        "n": 5,
+        "accuracy": 1.0
+      },
+      "图书馆服务": {
+        "n": 11,
+        "accuracy": 0.6363636363636364
+      }
+    }
+  },
+  "sft": {
+    "cases": 60,
+    "completed": 60,
+    "errors": 0,
+    "accuracy": 0.23333333333333334,
+    "answerable_fact_accuracy": 0.044444444444444446,
+    "unanswerable_refusal_accuracy": 0.8,
+    "citation_locatable_rate": 0.0,
+    "reference_fact_evidence_coverage": 0.0,
+    "latency_mean_ms": 161.97761526685403,
+    "latency_p95_ms": 308.1024086532125,
+    "by_topic": {
+      "学校概况": {
+        "n": 17,
+        "accuracy": 0.23529411764705882
+      },
+      "本科教学": {
+        "n": 15,
+        "accuracy": 0.2
+      },
+      "招生": {
+        "n": 12,
+        "accuracy": 0.16666666666666666
+      },
+      "学生事务": {
+        "n": 5,
+        "accuracy": 0.4
+      },
+      "图书馆服务": {
+        "n": 11,
+        "accuracy": 0.2727272727272727
+      }
+    }
+  }
+}

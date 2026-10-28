@@ -1,0 +1,9 @@
+{
+  "frozen_at": "2026-10-26T21:34:17.950714+08:00",
+  "cases": 60,
+  "positive": 45,
+  "negative": 15,
+  "purpose": "Final-only test. No model generation on this set until hyperparameters and adapter are locked.",
+  "source": "Official literal spans from the original SFT test fact partition; natural questions authored independently of candidate outputs.",
+  "sha256": "f7774936b98df6a9620c486d55716a69a27262c47668e5249d2c5ee6c5379735"
+}

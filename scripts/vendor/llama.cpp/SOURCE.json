@@ -1,0 +1,5 @@
+{
+  "repository": "https://github.com/ggml-org/llama.cpp",
+  "revision": "8b28c2394324465bf7727089e7eaf7aec9442d6a",
+  "purpose": "Pinned HF-to-GGUF converter and its local Python modules; MIT license retained"
+}

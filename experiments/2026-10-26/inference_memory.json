@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "peak_summed_process_rss_bytes": 4396564480,
+  "peak_summed_process_rss_gb": 4.39656448,
+  "sample_interval_seconds": 0.1,
+  "processes": "Actual web backend + project-specific Ollama daemon + its runner children",
+  "measurement": "Sum of OS-reported RSS; shared pages may be counted more than once. This is not a measurement of unique unified-memory allocation.",
+  "elapsed_ms": 1623.5402500005875,
+  "model_digest": "ea2385c93eb46c30a3eb51d6085dd222c25721b1ac1da70e03322134bec91683",
+  "sample_count": 16
+}

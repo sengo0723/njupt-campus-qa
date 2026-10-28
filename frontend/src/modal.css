@@ -1,0 +1,8 @@
+.modal-backdrop{position:fixed;inset:0;z-index:50;background:#23354f35;display:grid;place-items:center;padding:20px;backdrop-filter:blur(3px)}
+.rename-dialog{width:min(390px,100%);padding:26px;background:white;border-radius:16px;box-shadow:0 20px 80px #172c5520}
+.rename-dialog h2{font-size:17px;margin:0 0 22px;color:#3a4964;font-weight:600}
+.rename-dialog label{display:block;font-size:11px;color:#8d9ab0}
+.rename-dialog input{display:block;width:100%;border:1px solid #dce4f3;border-radius:8px;padding:11px;font-size:13px;color:#455570;margin-top:8px}
+.rename-dialog>div{display:flex;justify-content:flex-end;gap:10px;margin-top:24px}
+.rename-dialog button{font-size:12px;padding:9px 15px;border-radius:7px;background:#f2f5fb;color:#71809b}
+.rename-dialog button[type=submit]{background:#315df0;color:white}

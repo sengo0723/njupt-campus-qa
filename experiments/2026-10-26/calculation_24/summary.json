@@ -1,0 +1,30 @@
+{
+  "rag": {
+    "cases": 24,
+    "correct": 0,
+    "numeric_rule_accuracy": 0.0,
+    "verified_calculator_cases": 0,
+    "calculator_enabled": false
+  },
+  "rag_calculator": {
+    "cases": 24,
+    "correct": 24,
+    "numeric_rule_accuracy": 1.0,
+    "verified_calculator_cases": 24,
+    "calculator_enabled": true
+  },
+  "sft_rag": {
+    "cases": 24,
+    "correct": 0,
+    "numeric_rule_accuracy": 0.0,
+    "verified_calculator_cases": 0,
+    "calculator_enabled": false
+  },
+  "sft_rag_calculator": {
+    "cases": 24,
+    "correct": 24,
+    "numeric_rule_accuracy": 1.0,
+    "verified_calculator_cases": 24,
+    "calculator_enabled": true
+  }
+}

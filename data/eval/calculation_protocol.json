@@ -1,0 +1,33 @@
+{
+  "description": "Same-source arithmetic variations; not included in the frozen 80-question main score. No SFT fitting or checkpoint selection uses this challenge.",
+  "gold_derivation": "Transcribed official inputs and separate Decimal arithmetic; inference calculator is not called to generate gold answers.",
+  "inputs": {
+    "admissions_total": 300,
+    "history_unrestricted": 30,
+    "physics_unrestricted": 65,
+    "physics_all": 270,
+    "annual_tuition": {
+      "工科": 5800,
+      "理科": 5500,
+      "文科": 5200,
+      "艺术": 6800
+    },
+    "uplift": "10%",
+    "dormitory": 1500,
+    "areas": {
+      "信息与通信": 9230,
+      "电子与光学": 9983,
+      "计算机": 8056,
+      "自动化": 5632,
+      "材料与化学": 7150,
+      "物联网": 2146
+    },
+    "area_total": 69864,
+    "teachers": [
+      2318,
+      353,
+      "2494.5"
+    ],
+    "equivalent_students": "40863.2"
+  }
+}

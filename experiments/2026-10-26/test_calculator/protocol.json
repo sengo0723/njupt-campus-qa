@@ -1,0 +1,15 @@
+{
+  "split": "test",
+  "calculator": true,
+  "guardrails": false,
+  "generation": {
+    "num_ctx": 8192,
+    "num_predict": 768,
+    "temperature": 0,
+    "seed": 42,
+    "repeat_penalty": 1.1
+  },
+  "max_tokens": 768,
+  "scoring": "Deterministic reference-fact/number rules, not human grading or an LLM judge; citation location and reference-fact coverage are separate from entailment.",
+  "dataset_sha256": "c23702c0cee4232a64ffb8aee08b6d53e01c3acdf3c03e64ffe6d22b69312256"
+}

@@ -1,0 +1,24 @@
+{"question": "按2026年综合评价招生简章，首选物理、再选政治和地理，仅按选科条件筛选，符合专业计划数合计多少人？", "expected": ["65"], "kind": "conditional_sum", "source_doc_id": "c69898caec483a487960", "id": "M01"}
+{"question": "按2026年综合评价招生简章，首选物理、再选生物和地理，仅按选科条件筛选，符合专业计划数合计多少人？", "expected": ["65"], "kind": "conditional_sum", "source_doc_id": "c69898caec483a487960", "id": "M02"}
+{"question": "按2026年综合评价招生简章，首选物理、再选政治和生物，仅按选科条件筛选，符合专业计划数合计多少人？", "expected": ["65"], "kind": "conditional_sum", "source_doc_id": "c69898caec483a487960", "id": "M03"}
+{"question": "按2026年综合评价招生简章，首选物理、再选化学和地理，仅按选科条件筛选，符合专业计划数合计多少人？", "expected": ["270"], "kind": "conditional_sum", "source_doc_id": "c69898caec483a487960", "id": "M04"}
+{"question": "按2026年综合评价招生简章，首选物理、再选化学和政治，仅按选科条件筛选，符合专业计划数合计多少人？", "expected": ["270"], "kind": "conditional_sum", "source_doc_id": "c69898caec483a487960", "id": "M05"}
+{"question": "按2026年综合评价招生简章，首选物理、再选化学和生物，仅按选科条件筛选，符合专业计划数合计多少人？", "expected": ["270"], "kind": "conditional_sum", "source_doc_id": "c69898caec483a487960", "id": "M06"}
+{"question": "按2026年综合评价招生简章，首选历史、再选政治和地理，仅按选科条件筛选，符合专业计划数合计多少人？", "expected": ["30"], "kind": "conditional_sum", "source_doc_id": "c69898caec483a487960", "id": "M07"}
+{"question": "按2026年综合评价招生简章，首选历史、再选化学和生物，仅按选科条件筛选，符合专业计划数合计多少人？", "expected": ["30"], "kind": "conditional_sum", "source_doc_id": "c69898caec483a487960", "id": "M08"}
+{"question": "按2026年招生章程，假设某工科类专业属于上浮10%的优势学科专业，学费加住宿费标准1年不变，预收额合计多少元？", "expected": ["7880"], "kind": "fee_projection", "source_doc_id": "ac45ca3a781584acd021", "id": "M09"}
+{"question": "按2026年招生章程，假设某工科类专业属于上浮10%的优势学科专业，学费加住宿费标准2年不变，预收额合计多少元？", "expected": ["15760"], "kind": "fee_projection", "source_doc_id": "ac45ca3a781584acd021", "id": "M10"}
+{"question": "按2026年招生章程，假设某工科类专业属于上浮10%的优势学科专业，学费加住宿费标准3年不变，预收额合计多少元？", "expected": ["23640"], "kind": "fee_projection", "source_doc_id": "ac45ca3a781584acd021", "id": "M11"}
+{"question": "按2026年招生章程，假设某工科类专业属于上浮10%的优势学科专业，学费加住宿费标准5年不变，预收额合计多少元？", "expected": ["39400"], "kind": "fee_projection", "source_doc_id": "ac45ca3a781584acd021", "id": "M12"}
+{"question": "按2026年招生章程，假设某理科类专业属于上浮10%的优势学科专业，学费加住宿费标准4年不变，预收额合计多少元？", "expected": ["30200"], "kind": "fee_projection", "source_doc_id": "ac45ca3a781584acd021", "id": "M13"}
+{"question": "按2026年招生章程，假设某文科类专业属于上浮10%的优势学科专业，学费加住宿费标准4年不变，预收额合计多少元？", "expected": ["28880"], "kind": "fee_projection", "source_doc_id": "ac45ca3a781584acd021", "id": "M14"}
+{"question": "按2026年招生章程，假设某艺术类专业属于上浮10%的优势学科专业，学费加住宿费标准4年不变，预收额合计多少元？", "expected": ["35920"], "kind": "fee_projection", "source_doc_id": "ac45ca3a781584acd021", "id": "M15"}
+{"question": "按2026年招生章程，假设某工科类专业属于上浮10%的优势学科专业，学费加住宿费标准6年不变，预收额合计多少元？", "expected": ["47280"], "kind": "fee_projection", "source_doc_id": "ac45ca3a781584acd021", "id": "M16"}
+{"question": "根据2023—2024学年教学质量报告，信息与通信、电子与光学两个实验教学中心面积之和是多少平方米，占同表总面积的百分比是多少？", "expected": ["19213", "27.50"], "kind": "table_share", "source_doc_id": "3c538cd612625bbe8b7e", "id": "M17"}
+{"question": "根据2023—2024学年教学质量报告，信息与通信、计算机两个实验教学中心面积之和是多少平方米，占同表总面积的百分比是多少？", "expected": ["17286", "24.74"], "kind": "table_share", "source_doc_id": "3c538cd612625bbe8b7e", "id": "M18"}
+{"question": "根据2023—2024学年教学质量报告，电子与光学、计算机两个实验教学中心面积之和是多少平方米，占同表总面积的百分比是多少？", "expected": ["18039", "25.82"], "kind": "table_share", "source_doc_id": "3c538cd612625bbe8b7e", "id": "M19"}
+{"question": "根据2023—2024学年教学质量报告，信息与通信、自动化两个实验教学中心面积之和是多少平方米，占同表总面积的百分比是多少？", "expected": ["14862", "21.27"], "kind": "table_share", "source_doc_id": "3c538cd612625bbe8b7e", "id": "M20"}
+{"question": "根据2023—2024学年教学质量报告，计算机、物联网两个实验教学中心面积之和是多少平方米，占同表总面积的百分比是多少？", "expected": ["10202", "14.60"], "kind": "table_share", "source_doc_id": "3c538cd612625bbe8b7e", "id": "M21"}
+{"question": "根据2023—2024学年教学质量报告，信息与通信、计算机、自动化三个实验教学中心面积之和是多少平方米，占同表总面积的百分比是多少？", "expected": ["22918", "32.80"], "kind": "table_share", "source_doc_id": "3c538cd612625bbe8b7e", "id": "M22"}
+{"question": "请依据2023—2024学年报告，利用专任教师、聘请校外教师和折合教师总数，求外聘教师折算系数，并复算生师比。", "expected": ["0.5", "16.38"], "kind": "teacher_ratio", "source_doc_id": "3c538cd612625bbe8b7e", "id": "M23"}
+{"question": "按2023—2024学年报告中的折合在校生、专任教师和聘请校外教师等数据，计算生师比以及校外教师的折算系数。", "expected": ["0.5", "16.38"], "kind": "teacher_ratio", "source_doc_id": "3c538cd612625bbe8b7e", "id": "M24"}

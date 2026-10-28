@@ -1,0 +1,29 @@
+{
+  "legacy_answer_string_matches": {
+    "信达天下": [
+      102,
+      254,
+      529,
+      560,
+      825,
+      1134
+    ],
+    "自强不息": [
+      102,
+      254,
+      294,
+      557,
+      560,
+      643,
+      656,
+      895,
+      949,
+      966
+    ],
+    "1942": [
+      139
+    ]
+  },
+  "aligned_real_example_matches": {},
+  "interpretation": "Exact phrase audit reveals that old whole-sentence fact hashes did not fully isolate semantic facts repeated across official pages. Matching a numeric string alone is not proof of equivalent facts; the school spirit/name strings are direct stable-fact overlaps. Legacy runs are diagnostic. The aligned recipes use curated source spans and training-only distractors."
+}

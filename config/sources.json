@@ -1,0 +1,725 @@
+[
+  {
+    "doc_id": "b4f11bcb15ac52ef17cd",
+    "topic": "学校概况",
+    "title": "学校简介",
+    "url": "https://www.njupt.edu.cn/17220/list.htm",
+    "parent_url": null,
+    "published_at": null,
+    "years": [],
+    "raw_file": "data/raw/b4f11bcb15ac52ef17cd.html",
+    "content_sha256": "e3c82424f398ce6667068eaacd48b73c48489e0b7c15d32b853fcfe5be5ba8f0",
+    "raw_sha256": "9749dc554277decbc5f6bc92e9bb645c0f8d9556a7c858a8bc669b822a047f0e"
+  },
+  {
+    "doc_id": "2f88a06f1430d32a7ee5",
+    "topic": "学校概况",
+    "title": "学校章程",
+    "url": "https://www.njupt.edu.cn/17221/list.htm",
+    "parent_url": null,
+    "published_at": null,
+    "years": [],
+    "raw_file": "data/raw/2f88a06f1430d32a7ee5.html",
+    "content_sha256": "ac25a5d442531b28f5c7c0dd56c01686b86b35b2871ded76cdf4fb72c87ab825",
+    "raw_sha256": "c59825f7861c24e3cf098c2cce12e8e65c864e033187a12843b1601d45f85de9"
+  },
+  {
+    "doc_id": "9192320a4bdc3176f841",
+    "topic": "学校概况",
+    "title": "南邮精神",
+    "url": "https://www.njupt.edu.cn/17222/list.htm",
+    "parent_url": null,
+    "published_at": null,
+    "years": [],
+    "raw_file": "data/raw/9192320a4bdc3176f841.html",
+    "content_sha256": "e0edb67fcf3b63ad8ee6a1876dd6848056fb682bc565464cdcd88a05905d6438",
+    "raw_sha256": "f154eeb12526bd6287d31984ff3d3725d952c3f4ca17a6d46e9e74f82136ec7f"
+  },
+  {
+    "doc_id": "9f56240ca162ddd462a3",
+    "topic": "学校概况",
+    "title": "南京邮电大学简介",
+    "url": "https://dag.njupt.edu.cn/jj1/list.htm",
+    "parent_url": null,
+    "published_at": null,
+    "years": [],
+    "raw_file": "data/raw/9f56240ca162ddd462a3.html",
+    "content_sha256": "28a45b561e7a8c605dd4058c08d7d941d0aac7a00a59b6f2cf7d45450bde37d3",
+    "raw_sha256": "41549755474bbc251e239849fa0f5ba6038c11bc25c846b4fb0625ddeda83b8f"
+  },
+  {
+    "doc_id": "10eddd0e2c5167d71f9a",
+    "topic": "学校概况",
+    "title": "南邮校史",
+    "url": "https://www.njupt.edu.cn/17224/list.htm",
+    "parent_url": null,
+    "published_at": null,
+    "years": [],
+    "raw_file": "data/raw/10eddd0e2c5167d71f9a.html",
+    "content_sha256": "c586ca11808c869de46481779ea49fa55cc3aed3e47e3f43c008e25ef4cd6dc0",
+    "raw_sha256": "989ce572de49ea463997e6aa07abb9218d0e645d58a5f56e422f720ed9be3f02"
+  },
+  {
+    "doc_id": "a4be734608ea014fe5af",
+    "topic": "学校概况",
+    "title": "南京邮电大学本馆简介",
+    "url": "https://dag.njupt.edu.cn/1254/list.htm",
+    "parent_url": null,
+    "published_at": null,
+    "years": [],
+    "raw_file": "data/raw/a4be734608ea014fe5af.html",
+    "content_sha256": "7b731e2c34def932519691f490e63a5dc8d50851b916994a652c953696b4cebc",
+    "raw_sha256": "2ed174ddb4385aa3afbeb0e6d28a336c0d945a2c454ab608cb25292320db872c"
+  },
+  {
+    "doc_id": "3c538cd612625bbe8b7e",
+    "topic": "本科教学",
+    "title": "南京邮电大学2023—2024学年本科教学质量报告",
+    "url": "https://jwc.njupt.edu.cn/_upload/article/files/fd/e1/90d98cee4fc6a6b007f6a40eaa28/97aa85c1-0df8-444f-88fb-6286ea1bf7e1.pdf",
+    "parent_url": null,
+    "published_at": null,
+    "years": [
+      "2023",
+      "2024"
+    ],
+    "raw_file": "data/raw/3c538cd612625bbe8b7e.pdf",
+    "content_sha256": "f779d54c37bcb52baf6711b7361e201e5143d1eadc86bc63497f0a4c6d47fff7",
+    "raw_sha256": "83dac671e41af6148551a5d9e7674d84c2321c878cd6c2ccc9662da6fa32616e"
+  },
+  {
+    "doc_id": "29429770992e86830a0a",
+    "topic": "本科教学",
+    "title": "南京邮电大学本科生学生手册与学籍管理制度汇编（公开PDF）",
+    "url": "https://jwc.njupt.edu.cn/_upload/article/files/1e/2c/af7879b84b10b39a320d210e6fb4/bd5ebfd5-563f-4f71-bb4f-dc12aa83471b.pdf",
+    "parent_url": null,
+    "published_at": null,
+    "years": [],
+    "raw_file": "data/raw/29429770992e86830a0a.pdf",
+    "content_sha256": "63f474a8c58c3b8e781ab4f8595ebeae05f340882c8dfb2b2f9ca79bde62e081",
+    "raw_sha256": "0951f5a0fc95639427bcabc1f7f7724fc5a2ece3dded2437c4f98e593d6580bd"
+  },
+  {
+    "doc_id": "9aa2e55ecb54b949cb50",
+    "topic": "本科教学",
+    "title": "【教务管理办公室】2026-2027学年第一学期部分在线开放课程学习通知（陆续更新中）",
+    "url": "https://jwc.njupt.edu.cn/2026/0904/c1594a307959/page.htm",
+    "parent_url": null,
+    "published_at": "2026-10-10",
+    "years": [
+      "2026",
+      "2027"
+    ],
+    "raw_file": "data/raw/9aa2e55ecb54b949cb50.html",
+    "content_sha256": "24fd44910badc71749fe23be23a08546bc445b64ab2520f6607bfe7924426970",
+    "raw_sha256": "94f0f249159f312a05649fd4c5ea20962789eb70f8e45556c3896e6446172edc"
+  },
+  {
+    "doc_id": "ec822f79c691ca82789b",
+    "topic": "本科教学",
+    "title": "【教务管理办公室】2026-2027学年第一学期在线开放课程（慕课）线下考试报名通知",
+    "url": "https://jwc.njupt.edu.cn/2026/0920/c1594a308838/page.htm",
+    "parent_url": null,
+    "published_at": "2026-09-20",
+    "years": [
+      "2026",
+      "2027"
+    ],
+    "raw_file": "data/raw/ec822f79c691ca82789b.html",
+    "content_sha256": "e70ac02068709e87dc83be8471bfc01c2c18f5d34a70871700eb2b42b94f6a2e",
+    "raw_sha256": "31147be55a15dd6324b7efc396fe7d7a8ad8eb3d4fe812587c9e4c1f4952c296"
+  },
+  {
+    "doc_id": "850b47b565e02fe37139",
+    "topic": "本科教学",
+    "title": "【教务管理办公室】关于我校第五十七届田径运动会期间相关教学安排的通知",
+    "url": "https://jwc.njupt.edu.cn/2026/1019/c1594a309986/page.htm",
+    "parent_url": null,
+    "published_at": "2026-10-19",
+    "years": [],
+    "raw_file": "data/raw/850b47b565e02fe37139.html",
+    "content_sha256": "98ae6693b1dec67c1a1a80c42d8a308d9e742dd9517069d9590cd85bb40235d1",
+    "raw_sha256": "7910d38bcd92de9111355c53a9cc644fd0f7d574a693e8f99509ab77a3992bdc"
+  },
+  {
+    "doc_id": "7decccccddfcca2ccd3c",
+    "topic": "本科教学",
+    "title": "【综合办公室】关于开设微课程与微专业的通知",
+    "url": "https://jwc.njupt.edu.cn/2026/1009/c1594a309386/page.htm",
+    "parent_url": null,
+    "published_at": "2026-10-09",
+    "years": [],
+    "raw_file": "data/raw/7decccccddfcca2ccd3c.html",
+    "content_sha256": "d9bdc4d18c0bea1ec835b2a6587794c74177618359719f69c3450a7494c22ef2",
+    "raw_sha256": "88c3326b6f457c35b5d01d720d8f2568ed3e8ad5b19b7143997e46948c16c511"
+  },
+  {
+    "doc_id": "c69898caec483a487960",
+    "topic": "招生",
+    "title": "南京邮电大学2026年综合评价招生简章",
+    "url": "https://zs.njupt.edu.cn/2026/0428/c12721a301108/pagem.htm",
+    "parent_url": null,
+    "published_at": "2026-04-29",
+    "years": [
+      "2026"
+    ],
+    "raw_file": "data/raw/c69898caec483a487960.html",
+    "content_sha256": "86ce2d1940605daa92fab3e7eb5b3b5f255bf60567e0485d3010a9b759de9e7c",
+    "raw_sha256": "b923a7ae866e606a4aff528254c92b72c4290a7a132a56fc2ff8ae8422cdbdde"
+  },
+  {
+    "doc_id": "ac45ca3a781584acd021",
+    "topic": "招生",
+    "title": "南京邮电大学2026年普通本科招生章程",
+    "url": "https://zs.njupt.edu.cn/2026/0521/c2562a302356/page.htm",
+    "parent_url": null,
+    "published_at": "2026-05-20",
+    "years": [
+      "2026"
+    ],
+    "raw_file": "data/raw/ac45ca3a781584acd021.html",
+    "content_sha256": "d3b2f0a35dc3cffa8eaf09e8431c8b59c3d0f52c8d7607390aa5398a78f0b15a",
+    "raw_sha256": "336bf31d91dc7e14923c86b59cc5a559eaac7cba7d8f48625440c4e87c86e407"
+  },
+  {
+    "doc_id": "93319fcf1344e6996a3b",
+    "topic": "招生",
+    "title": "招生专业",
+    "url": "https://zs.njupt.edu.cn/2570/list.htm",
+    "parent_url": null,
+    "published_at": "2026-06-11",
+    "years": [],
+    "raw_file": "data/raw/93319fcf1344e6996a3b.html",
+    "content_sha256": "90f83c9dd0fbd61813159af8193a79851727d45ec4a363ebb284dd760e310c9e",
+    "raw_sha256": "da676068153e97122408cadd1a609733ea2d4ec3816c5e3c4610e5267ec6d427"
+  },
+  {
+    "doc_id": "df8791f339c7cc2685bd",
+    "topic": "招生",
+    "title": "南京邮电大学2025年普通本科招生章程",
+    "url": "https://zs.njupt.edu.cn/2025/0605/c2562a285145/page.htm",
+    "parent_url": null,
+    "published_at": "2025-06-03",
+    "years": [
+      "2025"
+    ],
+    "raw_file": "data/raw/df8791f339c7cc2685bd.html",
+    "content_sha256": "515d6941bad34a6099eca6a688ad94f67a0b3eeb831e4fa3435401ca677c4c88",
+    "raw_sha256": "12980bf312b4186bc1aed9a1bcaedfa38044dc16dccfd29d44e448c951bde3ad"
+  },
+  {
+    "doc_id": "0b642ec71323953cf08b",
+    "topic": "招生",
+    "title": "南京邮电大学2024年普通本科招生章程",
+    "url": "https://zs.njupt.edu.cn/2024/0604/c2562a264832/page.htm",
+    "parent_url": null,
+    "published_at": "2024-05-27",
+    "years": [
+      "2024"
+    ],
+    "raw_file": "data/raw/0b642ec71323953cf08b.html",
+    "content_sha256": "f6f4ee115299f4703a4f2d8361983325f9f679c24440015d2385379dcede0ee8",
+    "raw_sha256": "dfead44158989f2727f5044b387c1f67e447a3f6a5c18195bc2fe48a42e83bd1"
+  },
+  {
+    "doc_id": "030f18f931392a541b59",
+    "topic": "招生",
+    "title": "南京邮电大学2023年普通本科招生章程",
+    "url": "https://zs.njupt.edu.cn/2023/0603/c2562a242452/page.htm",
+    "parent_url": null,
+    "published_at": "2023-06-03",
+    "years": [
+      "2023"
+    ],
+    "raw_file": "data/raw/030f18f931392a541b59.html",
+    "content_sha256": "38677aa6ab4b9d060faaee55b63d536ea9c30c6d6e6183612de67519b7d42ee3",
+    "raw_sha256": "4a9e85a5e5547b8d7edde5a4abfe673ec875fcf6f4eca7cd0e3cd76745f20c36"
+  },
+  {
+    "doc_id": "de2dc50b7635cf69f651",
+    "topic": "招生",
+    "title": "南京邮电大学2026年综合评价招生测试公告",
+    "url": "https://zs.njupt.edu.cn/2026/0608/c2578a303663/page.htm",
+    "parent_url": null,
+    "published_at": "2026-06-09",
+    "years": [
+      "2026"
+    ],
+    "raw_file": "data/raw/de2dc50b7635cf69f651.html",
+    "content_sha256": "ee31a18cdc50c372baf62838ac2ef779a74f366ab99b3fc902393b0290ba639c",
+    "raw_sha256": "be0b76794dc7b01ac4da1d9797abc5e09af63c8b66a5b80972e9bf764a1689fc"
+  },
+  {
+    "doc_id": "216f8baae1d478f2cda4",
+    "topic": "招生",
+    "title": "南京邮电大学2025年综合评价招生简章",
+    "url": "https://zs.njupt.edu.cn/2025/0429/c2578a282790/page.htm",
+    "parent_url": null,
+    "published_at": "2025-04-29",
+    "years": [
+      "2025"
+    ],
+    "raw_file": "data/raw/216f8baae1d478f2cda4.html",
+    "content_sha256": "78a626189f926898d9c865e60ceff6a59cb80b83d336907d4887e924df6a0c22",
+    "raw_sha256": "c7ec6bd25d3f4f9a413f4e462b7fe884e3f524c2108c226a67cacf08a5adbb08"
+  },
+  {
+    "doc_id": "8b184d0c698dfa681af9",
+    "topic": "招生",
+    "title": "南京邮电大学2024年综合评价招生简章",
+    "url": "https://zs.njupt.edu.cn/2024/0428/c2578a261380/page.htm",
+    "parent_url": null,
+    "published_at": "2024-04-28",
+    "years": [
+      "2024"
+    ],
+    "raw_file": "data/raw/8b184d0c698dfa681af9.html",
+    "content_sha256": "824533140351bc75f9013cb12da1c569b99cab570fb8e33f454c522ea1c8f032",
+    "raw_sha256": "5ddfeb1efff81fa69faa82f570c47a935f85c4c74b24031dda64f0901ef48c2c"
+  },
+  {
+    "doc_id": "b2fdf124e19b62ece132",
+    "topic": "招生",
+    "title": "南京邮电大学2023年综合评价招生简章",
+    "url": "https://zs.njupt.edu.cn/2023/0426/c2578a239868/page.htm",
+    "parent_url": null,
+    "published_at": "2023-04-27",
+    "years": [
+      "2023"
+    ],
+    "raw_file": "data/raw/b2fdf124e19b62ece132.html",
+    "content_sha256": "04b8f121fc68a2154fa7f66f5683ee4fa7ba631639a0623ae533ec6b824bfd56",
+    "raw_sha256": "a568a83431e7bc60502637f27225296feafe5c7c5d854ac5bf9ff16e18d4d742"
+  },
+  {
+    "doc_id": "931d5c04a2536c6da073",
+    "topic": "图书馆服务",
+    "title": "借阅规则",
+    "url": "https://lib.njupt.edu.cn/1385/list.htm",
+    "parent_url": null,
+    "published_at": null,
+    "years": [],
+    "raw_file": "data/raw/931d5c04a2536c6da073.html",
+    "content_sha256": "5e0b94bb21a15b36909a127aa225780a227d9a91e67ffe39b195d2baf65871da",
+    "raw_sha256": "aec5f652d3db3fe61e2d8201591b19463a19f0bb1de6ae53308e6ac1e74005f5"
+  },
+  {
+    "doc_id": "95c1bae662edb2f86193",
+    "topic": "图书馆服务",
+    "title": "开放时间",
+    "url": "https://lib.njupt.edu.cn/1384/list.htm",
+    "parent_url": null,
+    "published_at": null,
+    "years": [],
+    "raw_file": "data/raw/95c1bae662edb2f86193.html",
+    "content_sha256": "6118ac392d7e8326b130d2511042fb95ebbe84d7bd1b9f22eb152be859188917",
+    "raw_sha256": "a5b03727fb55fd802060af4156be8bc123b55a36c15efcb067dffe29196e4dd4"
+  },
+  {
+    "doc_id": "1001a641042a4d40a38d",
+    "topic": "图书馆服务",
+    "title": "入馆须知",
+    "url": "https://lib.njupt.edu.cn/1383/list.htm",
+    "parent_url": null,
+    "published_at": null,
+    "years": [],
+    "raw_file": "data/raw/1001a641042a4d40a38d.html",
+    "content_sha256": "918ff1f8dfabae29b35a1bde87797f0c9e8147ed2a4a39c3671f44bc69ca6394",
+    "raw_sha256": "bff37310d2e10487e334abc7fe7354edd4b6b94315d643eca67f60e177ce98dd"
+  },
+  {
+    "doc_id": "29b2b0109bd781c18cc1",
+    "topic": "图书馆服务",
+    "title": "新读者向导",
+    "url": "https://lib.njupt.edu.cn/1400/list.htm",
+    "parent_url": null,
+    "published_at": null,
+    "years": [],
+    "raw_file": "data/raw/29b2b0109bd781c18cc1.html",
+    "content_sha256": "221d4b43cc345d70f2ac145fcd95409e4162bc1b7dee2d311bf60a45dcfac566",
+    "raw_sha256": "58f6a9c4e4e038be97a172214a1f3fa5b39d6662c0c04496e7f2c210ece24215"
+  },
+  {
+    "doc_id": "31fd5d4453ae297231dc",
+    "topic": "图书馆服务",
+    "title": "常见问题",
+    "url": "https://lib.njupt.edu.cn/1409/list.htm",
+    "parent_url": null,
+    "published_at": null,
+    "years": [],
+    "raw_file": "data/raw/31fd5d4453ae297231dc.html",
+    "content_sha256": "bc65334c3e4b693dfedf44ab984f67f3e69fa84bb8a65644469d5cc4912b7967",
+    "raw_sha256": "f6397b9e6dcc53005d82a962f3d8668c1b9ae41d91689789fef9877e0264e422"
+  },
+  {
+    "doc_id": "2f91517747dece12cfd1",
+    "topic": "图书馆服务",
+    "title": "一、 借书操作流程",
+    "url": "https://lib.njupt.edu.cn/zzfw/list.htm",
+    "parent_url": null,
+    "published_at": null,
+    "years": [],
+    "raw_file": "data/raw/2f91517747dece12cfd1.html",
+    "content_sha256": "623d4aa5a0e89763bea3205343d2df85d2742390096a4491fd4a26eee9380720",
+    "raw_sha256": "672636dfd961e577df794c09bcb78d381eecd77b17166464b03473b9408cf51a"
+  },
+  {
+    "doc_id": "6e789a373b0b2ab521a5",
+    "topic": "图书馆服务",
+    "title": "服务流程",
+    "url": "https://lib.njupt.edu.cn/1381/list.htm",
+    "parent_url": null,
+    "published_at": null,
+    "years": [],
+    "raw_file": "data/raw/6e789a373b0b2ab521a5.html",
+    "content_sha256": "f04681bb1227e242e4fc2e9ccc17d5b17b2a3c2206754deb84e81e7e047188a6",
+    "raw_sha256": "9b8050031eba84d08f0b355c051491dd37290ac04f3fea7728d434f0cf2e1dc1"
+  },
+  {
+    "doc_id": "9255f9618b90ce99f1f9",
+    "topic": "图书馆服务",
+    "title": "馆藏分布",
+    "url": "https://lib.njupt.edu.cn/1382/list.htm",
+    "parent_url": null,
+    "published_at": null,
+    "years": [],
+    "raw_file": "data/raw/9255f9618b90ce99f1f9.html",
+    "content_sha256": "a2413888328c5cda39987504bb08506ac1934b9c908404f0041e34a52f9da38d",
+    "raw_sha256": "52f64ba4822f066070fbb51c45fa24feab0cd9250ccf3a6692267bd1639d862f"
+  },
+  {
+    "doc_id": "36d546d78224aa702638",
+    "topic": "图书馆服务",
+    "title": "中文数据库",
+    "url": "https://lib.njupt.edu.cn/1386/list.htm",
+    "parent_url": null,
+    "published_at": null,
+    "years": [],
+    "raw_file": "data/raw/36d546d78224aa702638.html",
+    "content_sha256": "87d3bbdc8e2401400accd8cb1153bfc2dd066005918e30118effdbf8cab4e278",
+    "raw_sha256": "fa0176860f623ec8333ce8a91bd91764e97ee1e3a93d199f73597f0a30af8397"
+  },
+  {
+    "doc_id": "cefdb70ab86d2d353635",
+    "topic": "图书馆服务",
+    "title": "研读室预约",
+    "url": "https://lib.njupt.edu.cn/1402/list.htm",
+    "parent_url": null,
+    "published_at": null,
+    "years": [],
+    "raw_file": "data/raw/cefdb70ab86d2d353635.html",
+    "content_sha256": "b388c05a060038baa2bedaae5ddcc70fc6ab39946ff0510af019812d4a15f07a",
+    "raw_sha256": "92cb6f1e0037809bed90713a90bb4bb711dc5c78b666fa71d8ff1f6c942d9665"
+  },
+  {
+    "doc_id": "82dc0069b59494d7f487",
+    "topic": "图书馆服务",
+    "title": "VPN服务",
+    "url": "https://lib.njupt.edu.cn/1408/list.htm",
+    "parent_url": null,
+    "published_at": null,
+    "years": [],
+    "raw_file": "data/raw/82dc0069b59494d7f487.html",
+    "content_sha256": "fb1a19f3d8a6d36cb99dc327179f2669f667afc4efa9c1538442301b9b74ddfe",
+    "raw_sha256": "09c7ff9de273533b21c35ac04d3f8b624663ced2577136bc31e703ffcea2f023"
+  },
+  {
+    "doc_id": "bd3413ed527f992660ee",
+    "topic": "图书馆服务",
+    "title": "读者培训",
+    "url": "https://lib.njupt.edu.cn/1414/list.htm",
+    "parent_url": null,
+    "published_at": null,
+    "years": [],
+    "raw_file": "data/raw/bd3413ed527f992660ee.html",
+    "content_sha256": "19970288de2b1ed8639f11bac57200f91606af50fb87273105a3abc842664473",
+    "raw_sha256": "62062478435bb9c92067b1901999c7e073a2059dfbf7b55d9956b59c0ef1f2c2"
+  },
+  {
+    "doc_id": "580982b06be633fd91c1",
+    "topic": "学生事务",
+    "title": "学生工作处工作流程汇编（2019年12月）",
+    "url": "https://cs.njupt.edu.cn/_upload/article/files/da/24/5c86871a4ae38f69d0940d28fbe2/4bb62b0e-59d5-41ba-b9e0-b95b08fe7d04.pdf",
+    "parent_url": null,
+    "published_at": null,
+    "years": [
+      "2019"
+    ],
+    "raw_file": "data/raw/580982b06be633fd91c1.pdf",
+    "content_sha256": "baaddb1f25d28d6d5e7fec820f45300e0e4b4f540b3681805bd7f6a13e249be2",
+    "raw_sha256": "e583ff5d20ca82d9703e06acd564eda84891e3111c8c4121ecfcfeed652915a6"
+  },
+  {
+    "doc_id": "9248721152dcc1afe56c",
+    "topic": "本科教学",
+    "title": "学籍管理办法",
+    "url": "https://jwc.njupt.edu.cn/1535/list.htm",
+    "parent_url": null,
+    "published_at": null,
+    "years": [],
+    "raw_file": "data/raw/9248721152dcc1afe56c.html",
+    "content_sha256": "9aec3a1f87e2d72d5aba8b74a545949040699c753975ef3b4eb175f607ebebbf",
+    "raw_sha256": "24eca892f0837af3d8020429cb39894a1777cfc32ead39b6eaabac1bd31c62e1"
+  },
+  {
+    "doc_id": "66d02db81f2565f85280",
+    "topic": "本科教学",
+    "title": "南京邮电大学普通高等教育本科毕业生学士学位授予办法（修订）",
+    "url": "https://jwc.njupt.edu.cn/2026/0625/c1746a305440/page.htm",
+    "parent_url": null,
+    "published_at": "2026-06-25",
+    "years": [],
+    "raw_file": "data/raw/66d02db81f2565f85280.html",
+    "content_sha256": "8f4ce26159c2cc2d06d113c6e32b4bd0ffe7f3a6ac80f7d90577f1cbafdc539b",
+    "raw_sha256": "614a66e4fce527e8f8c87e11bc63b454cf2914bebbe0489881bf8287ae7bfb77"
+  },
+  {
+    "doc_id": "c9897f4ce8003be593ee",
+    "topic": "招生",
+    "title": "南京邮电大学2026年江苏省招生计划表",
+    "url": "https://zs.njupt.edu.cn/_upload/article/files/29/ff/e7ddfdb84164ae4f25e134c43b6a/ef2dadfa-ceaf-4bc3-bcda-a213f0eae539.pdf",
+    "parent_url": null,
+    "published_at": null,
+    "years": [
+      "2026"
+    ],
+    "raw_file": "data/raw/c9897f4ce8003be593ee.pdf",
+    "content_sha256": "1fb9713d8c91fef519a6812036f8936fdc70cd26f4c9534538d25dc60e3c5056",
+    "raw_sha256": "15cdf731ff2f9b132350733d09173325058537f780205407ac926ee940b9b07f"
+  },
+  {
+    "doc_id": "8d73315360220109acf9",
+    "topic": "招生",
+    "title": "南京邮电大学2026年江苏省外招生计划表",
+    "url": "https://zs.njupt.edu.cn/_upload/article/files/29/ff/e7ddfdb84164ae4f25e134c43b6a/9a631487-8986-48aa-b4d5-5c83fd32612c.pdf",
+    "parent_url": null,
+    "published_at": null,
+    "years": [
+      "2026"
+    ],
+    "raw_file": "data/raw/8d73315360220109acf9.pdf",
+    "content_sha256": "ece09306f7668ca41f3bcf6ff602377374f114057e28b40bbc8750ecdc9bb2d8",
+    "raw_sha256": "cd728f124433d904bf664ecb1ab4ec4a13a6a58b389a9effc80c8d3f945fd4fb"
+  },
+  {
+    "doc_id": "a4f08db0b909e067bb82",
+    "topic": "学生事务",
+    "title": "服兵役学生国家教育资助申请流程",
+    "url": "https://xsc.njupt.edu.cn/_upload/article/files/4f/23/52b9125c48748eb03a9858eaa2df/e4606a8d-1427-4bbc-909b-e9f4bbf762ac.pdf",
+    "parent_url": "https://xsc.njupt.edu.cn/2024/0508/c16462a262119/page.htm",
+    "published_at": null,
+    "years": [],
+    "raw_file": "data/raw/a4f08db0b909e067bb82.pdf",
+    "content_sha256": "5671a1a5bf94f5db5caad4c8d3dc8e75ed929bf6a98171c04dafdbaeff199b41",
+    "raw_sha256": "5754a182201e63772a93bac354ef28ac7e476cb234daec40dbdefc1e3d2f3915"
+  },
+  {
+    "doc_id": "afd552e6232c1ac24729",
+    "topic": "学生事务",
+    "title": "生源地国家助学贷款申请指南（2025）",
+    "url": "https://xsc.njupt.edu.cn/_upload/article/files/61/22/207eb37449cc90fcec9363eb3409/0c2b4fde-b11b-4b3d-9d62-aceb26db05de.pdf",
+    "parent_url": "https://xsc.njupt.edu.cn/2024/0508/c16462a262122/page.htm",
+    "published_at": null,
+    "years": [
+      "2025"
+    ],
+    "raw_file": "data/raw/afd552e6232c1ac24729.pdf",
+    "content_sha256": "dece5636122bae925f23b5d3d908129f65345d468567902ce3468caa44b1d72d",
+    "raw_sha256": "5babacac111033cbc32364dc16e39a22e420833929c90bbaeed28c50d6761b8c"
+  },
+  {
+    "doc_id": "0cc9d461269799b171f1",
+    "topic": "学生事务",
+    "title": "校学发〔2025〕12号南京邮电大学“甘霖励志奖学金”评选办法",
+    "url": "https://xsc.njupt.edu.cn/_upload/article/files/8b/02/564d3df247e0978ebfeb6e91f977/abd249cf-3755-4320-9974-2306fd0594c1.pdf",
+    "parent_url": "https://xsc.njupt.edu.cn/2025/0324/c1160a280209/page.htm",
+    "published_at": null,
+    "years": [
+      "2025"
+    ],
+    "raw_file": "data/raw/0cc9d461269799b171f1.pdf",
+    "content_sha256": "702be5c8464ffd9c1fa3a3859a8e7f4cfc7cb88c7b3134878392cfeba046e19b",
+    "raw_sha256": "c0625a0d57f231a951eef360b2b5f5f78daba5d2063e60e3d61f4b36ccc1fc2d"
+  },
+  {
+    "doc_id": "7a5a6dba54bb76879330",
+    "topic": "学生事务",
+    "title": "江苏省高等学校毕业生学费补偿政策解读",
+    "url": "https://xsc.njupt.edu.cn/_upload/article/files/cb/b2/94afdf6d4b7db462f2d0d7c53356/9e0d4ba4-22ab-4748-8e17-e99955bba866.pdf",
+    "parent_url": "https://xsc.njupt.edu.cn/2024/0618/c1160a266137/page.htm",
+    "published_at": null,
+    "years": [],
+    "raw_file": "data/raw/7a5a6dba54bb76879330.pdf",
+    "content_sha256": "8a9c10c383f26be3a508a0b7b060caeff1425705f9ddf1719806fb67a87b859d",
+    "raw_sha256": "06a2d1f888f08287b89eb187fd160c752c309b5153639db99685bcb62c9f0312"
+  },
+  {
+    "doc_id": "e8b240071596e994ad8a",
+    "topic": "学生事务",
+    "title": "校学发〔2024〕6号本科学生勤工助学管理办法",
+    "url": "https://xsc.njupt.edu.cn/_upload/article/files/3c/92/c078c33945918f4a794899e4f642/a2b5f055-9415-4133-9198-ab49f728d17b.pdf",
+    "parent_url": "https://xsc.njupt.edu.cn/2024/0407/c1160a259042/page.htm",
+    "published_at": null,
+    "years": [
+      "2024"
+    ],
+    "raw_file": "data/raw/e8b240071596e994ad8a.pdf",
+    "content_sha256": "9f61ad9265a038ea09b7691c53967d011f6c551720d7b28e3d084472674e9f6a",
+    "raw_sha256": "41d8b5699820344ca0f17cb3bc67f084326906a7aebd502858366ff790f4b4ce"
+  },
+  {
+    "doc_id": "f9f6d9fca0fdc1e067df",
+    "topic": "学生事务",
+    "title": "校学发〔2023〕37号“共进电子奖学金”评选办法",
+    "url": "https://xsc.njupt.edu.cn/_upload/article/files/17/8a/bd95174145239ed7fd22a478dfb1/9de6d487-0775-4184-ab74-a4d1c5abec19.pdf",
+    "parent_url": "https://xsc.njupt.edu.cn/2024/0229/c1160a255962/page.htm",
+    "published_at": null,
+    "years": [
+      "2023"
+    ],
+    "raw_file": "data/raw/f9f6d9fca0fdc1e067df.pdf",
+    "content_sha256": "77fa4748011e4b6ce6474fdfc4eed751736a07ead4b1b804441423c77cc3b313",
+    "raw_sha256": "c4d4036cc777ea12dc13a5a150788328a1d85d4a2a3da47fb0e5eb77e5343bff"
+  },
+  {
+    "doc_id": "82704de8f5c380edaa34",
+    "topic": "学生事务",
+    "title": "校学发〔2023〕26号“小米奖助学金”评选办法",
+    "url": "https://xsc.njupt.edu.cn/_upload/article/files/20/14/0bd8f37b4b928a97db3e6b253373/4d6862cb-a24d-4cf5-9783-4eb13bd7af53.pdf",
+    "parent_url": "https://xsc.njupt.edu.cn/2024/0229/c1160a255961/page.htm",
+    "published_at": null,
+    "years": [
+      "2023"
+    ],
+    "raw_file": "data/raw/82704de8f5c380edaa34.pdf",
+    "content_sha256": "9bcee22b8b69e42f82b05957145a94d16e3d6828db09aa3fb0442ffbfa45798e",
+    "raw_sha256": "fdb6fce61711a650c4358b3c81d1dba8fa19744dd2f4f67f6c7fb1cfc81dab4c"
+  },
+  {
+    "doc_id": "203d68ba2e38031841c5",
+    "topic": "学生事务",
+    "title": "校学发〔2023〕23号本科学生临时困难补助实施办法",
+    "url": "https://xsc.njupt.edu.cn/_upload/article/files/56/61/e9c12aec4aeab361734e156df70a/ca55c2c3-bbfe-48b7-b800-94a0228127b6.pdf",
+    "parent_url": "https://xsc.njupt.edu.cn/2024/0229/c1160a255957/page.htm",
+    "published_at": null,
+    "years": [
+      "2023"
+    ],
+    "raw_file": "data/raw/203d68ba2e38031841c5.pdf",
+    "content_sha256": "7d8b2f544286832725f9d65491a60b330b56a0475095cb13181e7eafc001ee92",
+    "raw_sha256": "f466ff0c245328493f781978832e59ef52543ddf5745fd46e1d3fb768e9e4b21"
+  },
+  {
+    "doc_id": "91178db6748927f65ecd",
+    "topic": "学生事务",
+    "title": "校学发〔2023〕21号本科家庭经济特殊困难学生学杂费减免办法",
+    "url": "https://xsc.njupt.edu.cn/_upload/article/files/e5/e8/4e6bfd034c2fb3937df350b252c3/38779254-8f3e-4d8c-99cd-0be8a67c065f.pdf",
+    "parent_url": "https://xsc.njupt.edu.cn/2024/0229/c1160a255955/page.htm",
+    "published_at": null,
+    "years": [
+      "2023"
+    ],
+    "raw_file": "data/raw/91178db6748927f65ecd.pdf",
+    "content_sha256": "52538bca8dfafcb23b535936053298f66bb50ffe91a1edf7f4bd665a5f9ba4f9",
+    "raw_sha256": "fa27e0baf272f8603a7ba0be69f89fd9fce88b2cbb5c6cd837f824a895b5a494"
+  },
+  {
+    "doc_id": "f104766c93c2120386c4",
+    "topic": "学生事务",
+    "title": "校学发〔2023〕18号“华为奖学金”评选办法",
+    "url": "https://xsc.njupt.edu.cn/_upload/article/files/77/5b/34723bd64172a76fb758881585a4/1d11816d-8144-4822-a482-7b4cf44d4404.pdf",
+    "parent_url": "https://xsc.njupt.edu.cn/2024/0229/c1160a255952/page.htm",
+    "published_at": null,
+    "years": [
+      "2023"
+    ],
+    "raw_file": "data/raw/f104766c93c2120386c4.pdf",
+    "content_sha256": "0087a147910333c0db8ddc12a5637904f2d5b495ba3c2654759798eeb8dae4f9",
+    "raw_sha256": "64804e1f3424a2ecfac4ee2f84e90aa63b0e62bf5f41b52b44a75ccb8d6ab382"
+  },
+  {
+    "doc_id": "1299620ce5a0d9e869d0",
+    "topic": "学生事务",
+    "title": "南京邮电大学学生手册（2026版）",
+    "url": "https://xsc.njupt.edu.cn/_upload/article/files/35/c1/6916beb74b24a4d3ade5d9bbada2/a859546f-e61f-463b-9465-78e4090ed1b6.pdf",
+    "parent_url": "https://xsc.njupt.edu.cn/2026/0902/c17378a307819/page.htm",
+    "published_at": null,
+    "years": [
+      "2026"
+    ],
+    "raw_file": "data/raw/1299620ce5a0d9e869d0.pdf",
+    "content_sha256": "1d27f42b3739a4826ae4ed52e70df5302060efa4a6ac12dde3aceea279760764",
+    "raw_sha256": "86ce9622ba9b503568c4fc988ab6225907729960a8b388d4dc09df0f896d0d1b"
+  },
+  {
+    "doc_id": "a03b9262acb82d27154b",
+    "topic": "学校概况",
+    "title": "计算机学院、软件学院、网络空间安全学院简介",
+    "url": "https://cs.njupt.edu.cn/xyjj/list.htm",
+    "parent_url": null,
+    "published_at": null,
+    "years": [],
+    "raw_file": "data/raw/a03b9262acb82d27154b.html",
+    "content_sha256": "2d0027ea57fd68e6e21e157971c4e869a2296885d43f40e0cd8eaf7a20cc7d04",
+    "raw_sha256": "312ff33f607b94051f04c2a1a4d2afcfce1fe9b8148b91f60737deef7d63f3f2"
+  },
+  {
+    "doc_id": "c8c8d12ebfa6c30f8e74",
+    "topic": "学校概况",
+    "title": "现代邮政学院、智慧交通学院简介",
+    "url": "https://simp.njupt.edu.cn/7735/list.htm",
+    "parent_url": null,
+    "published_at": null,
+    "years": [],
+    "raw_file": "data/raw/c8c8d12ebfa6c30f8e74.html",
+    "content_sha256": "c5882547611606be49e72f8c52ea5d753a2523a53b071f58a06d64ce9476ac01",
+    "raw_sha256": "9feeb82ac4ca72092b4501abcf2e3250e0dc0f51f1e41ea4663f6a84513939e1"
+  },
+  {
+    "doc_id": "8b400efd2c22f2849224",
+    "topic": "学校概况",
+    "title": "人工智能学院简介",
+    "url": "https://ai.njupt.edu.cn/xyjj/list.htm",
+    "parent_url": null,
+    "published_at": null,
+    "years": [],
+    "raw_file": "data/raw/8b400efd2c22f2849224.html",
+    "content_sha256": "8c8ce11b2286d893a5cdbf53bfc999c0baf125b5afa8118615a90b8e952a384a",
+    "raw_sha256": "5dfde5831898592f17f0bcc362440f7b828135b4d026f158684dcf4362362a1e"
+  },
+  {
+    "doc_id": "2043cdc3248d6c5ed97f",
+    "topic": "学校概况",
+    "title": "社会与人口学院简介",
+    "url": "https://sps.njupt.edu.cn/xyjj/list.htm",
+    "parent_url": null,
+    "published_at": null,
+    "years": [],
+    "raw_file": "data/raw/2043cdc3248d6c5ed97f.html",
+    "content_sha256": "626bb69bbf00ab17216066ed974a2990600f0eb94bce120ae54d803096e29782",
+    "raw_sha256": "5d49e4dcfe2425ca26a674ce0a5f87ffe940e0d6ab89935ff595bb9fc2ffcba6"
+  },
+  {
+    "doc_id": "6d75b4ef9f63d13632ad",
+    "topic": "学校概况",
+    "title": "外国语学院概况",
+    "url": "https://fld.njupt.edu.cn/5073/list.htm",
+    "parent_url": null,
+    "published_at": null,
+    "years": [],
+    "raw_file": "data/raw/6d75b4ef9f63d13632ad.html",
+    "content_sha256": "94c3b5e2eab2d49b27f56f9f86ee5d00410092c245c57cf213d007ef993a64a1",
+    "raw_sha256": "150ce48567e9578b0e85c36164b5ba5f79a131b7f7e143a6e9425236f012963a"
+  },
+  {
+    "doc_id": "f4d37404a277a310a6c4",
+    "topic": "学校概况",
+    "title": "简介",
+    "url": "https://simp.njupt.edu.cn/7749/list.htm",
+    "parent_url": null,
+    "published_at": null,
+    "years": [],
+    "raw_file": "data/raw/f4d37404a277a310a6c4.html",
+    "content_sha256": "f60beaf5e23e5ad0d387b7b7e1a840e135b839630d3cb1a53ecafaa057013c2c",
+    "raw_sha256": "faad636700d2f2e4606cb3a3191da92b3b28715349dc18f75fbf4af1a44fcf27"
+  }
+]

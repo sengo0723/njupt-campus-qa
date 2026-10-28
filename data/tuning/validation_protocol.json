@@ -1,0 +1,7 @@
+{
+  "cases": 60,
+  "positive": 45,
+  "negative": 15,
+  "annotation": "Manually formulated natural questions; answer facts are literal spans in official source snapshots. Positive facts come exclusively from the pre-existing SFT validation partition. No test80 questions/answers are used for selection.",
+  "sha256": "08d3561e51e930b994f02d221847a2f2782c27673d02e535e99b7ce960504ae7"
+}

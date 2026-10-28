@@ -1,0 +1,20 @@
+╭─ [1mmlx_lm.lora[0m ────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│    model                                                                                                             │
+│  [1m${PROJECT_ROOT}/models/qwen3-base-mlx[0m                   │
+│    type            [1mlora · 28 layers · rank 16[0m                                                                        │
+│    dataset         [1m${PROJECT_ROOT}/data/sft[0m              │
+│    optimizer       [1madamw · lr 1.0e-04[0m                                                                                │
+│    batch · iters   [1m1 · 20[0m                                                                                            │
+│    max seq         [1m1,536[0m                                                                                             │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+Trainable parameters: 0.385% (2.294M/596.050M)
+  [1miter   train_loss     tok/s     tokens[0m
+     1    [1mval[0m [1m0.892[0m    0.45s
+     5    [1m1.512 ▼[0m    [1m   54[0m      0.3k
+    10    [1m2.003 ▲[0m    [1m  209[0m      0.5k
+    15    [1m2.120 ▲[0m    [1m  423[0m      0.7k
+    20    [1mval[0m [1m1.095[0m    0.17s
+    20    [1m2.154 ▲[0m    [1m  390[0m      1.0k
+  [1msave[0m  0000020_adapters.safetensors
+[1mtrain[0m ██████████████████████████████ [1m100%[0m · [1m   20[0m/20
+TRAINING COMPLETE {"kind": "smoke", "completed": true, "iterations": 20, "max_epochs": 3, "actual_epochs": 0.016666666666666666, "training_samples": 1200, "validation_samples": 150, "elapsed_seconds": 8.805530499999804, "peak_memory_gb": 2.24944752, "trainable_parameters": 2293760, "best_step": 19, "best_validation_loss": 1.094561219215393, "config": {"model": "${PROJECT_ROOT}/models/qwen3-base-mlx", "data": "${PROJECT_ROOT}/data/sft", "train": true, "test": false, "fine_tune_type": "lora", "optimizer": "adamw", "optimizer_config": {"adamw": {"weight_decay": 0.01}}, "num_layers": 28, "batch_size": 1, "grad_accumulation_steps": 8, "iters": 20, "learning_rate": 0.0001, "max_seq_length": 1536, "seed": 42, "mask_prompt": true, "grad_checkpoint": false, "steps_per_report": 5, "steps_per_eval": 20, "save_every": 20, "val_batches": 5, "adapter_path": "${PROJECT_ROOT}/models/lora-smoke", "lora_parameters": {"keys": ["self_attn.q_proj", "self_attn.v_proj"], "rank": 16, "scale": 2.0, "dropout": 0.05}, "report_to": null, "resume_adapter_file": null, "trust_remote_code": false}, "dataset_sha256": "bea8af8dacaeaf85ea81ed256e0cd175cb5ca4e43f593704ed554521c933f9a6", "adapter_sha256": "df00dcee5d6f9a34cd72b55bbd759bf89d79b01ab91d6c64192fb93b86b0c9aa"}

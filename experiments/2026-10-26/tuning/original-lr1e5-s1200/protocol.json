@@ -1,0 +1,13 @@
+{
+  "adapter": "models/tuning/original-lr1e5-s1200",
+  "strength": 1.0,
+  "runtime": "MLX BF16 + unmerged LoRA",
+  "generation": {
+    "temperature": 0,
+    "repeat_penalty": 1.1,
+    "repeat_last_n": 64,
+    "max_tokens": 768,
+    "seed": 42
+  },
+  "cache_sha256": "1631c07a4feaaf9573351d0b0fcc6b44f499ed17ecd4a6deba27b63d501f5916"
+}

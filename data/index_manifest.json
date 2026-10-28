@@ -1,0 +1,12 @@
+{
+  "documents": 56,
+  "chunks": 2461,
+  "embedding_dimension": 512,
+  "embedding_model": "bge-small-zh-v1.5",
+  "chunk_tokens": 350,
+  "overlap_tokens": 50,
+  "fusion": "RRF k=60",
+  "dense_candidates": 20,
+  "sparse_candidates": 20,
+  "final_k": 5
+}

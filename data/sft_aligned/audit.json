@@ -1,0 +1,22 @@
+{
+  "train": 1200,
+  "valid": 150,
+  "test": 150,
+  "categories": {
+    "refusal": 180,
+    "calculation": 120,
+    "temporal": 120,
+    "grounded_real": 290,
+    "grounded_synthetic": 450,
+    "stable": 40
+  },
+  "synthetic": 870,
+  "official_fact_groups": 110,
+  "max_fact_variants": 3,
+  "max_tokens": 733,
+  "mean_tokens": 415.54833333333335,
+  "train_sha256": "7df1dee97f8fda8d3e9c2baa819eeab6c8660f157b8827c68cec8bb98ee58f51",
+  "long_evidence": false,
+  "note": "Experimental mixture changed from the initial 200/500/200/150/150 quotas to improve evidence selection. All fictional materials are explicitly labelled and excluded from RAG. Original 1500-sample first batch remains preserved.",
+  "fact_isolation": "Curated official units belong only to original training groups. Distractors use the same curated training pool, never whole corpus windows. Natural task validation uses original validation groups."
+}

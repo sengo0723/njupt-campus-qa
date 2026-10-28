@@ -1,0 +1,50 @@
+{
+  "completed": true,
+  "config": {
+    "model": "${PROJECT_ROOT}/models/qwen3-base-mlx",
+    "data": "${PROJECT_ROOT}/data/sft_aligned",
+    "train": true,
+    "test": false,
+    "fine_tune_type": "lora",
+    "optimizer": "adamw",
+    "optimizer_config": {
+      "adamw": {
+        "weight_decay": 0.01
+      }
+    },
+    "num_layers": 28,
+    "batch_size": 1,
+    "grad_accumulation_steps": 8,
+    "iters": 1200,
+    "learning_rate": 0.0001,
+    "max_seq_length": 1536,
+    "seed": 42,
+    "mask_prompt": true,
+    "grad_checkpoint": false,
+    "steps_per_report": 50,
+    "steps_per_eval": 200,
+    "save_every": 200,
+    "val_batches": -1,
+    "adapter_path": "${PROJECT_ROOT}/models/tuning/aligned-short-lr1e4",
+    "lora_parameters": {
+      "keys": [
+        "self_attn.q_proj",
+        "self_attn.v_proj"
+      ],
+      "rank": 16,
+      "scale": 2.0,
+      "dropout": 0.05
+    },
+    "report_to": null,
+    "resume_adapter_file": null,
+    "trust_remote_code": false
+  },
+  "samples": 1200,
+  "iterations": 1200,
+  "elapsed_seconds": 234.9487288329983,
+  "peak_memory_gb": 3.647605996,
+  "best_loss_step": 199,
+  "best_loss": 0.9106833934783936,
+  "trainable_parameters": 2293760,
+  "dataset_sha256": "7df1dee97f8fda8d3e9c2baa819eeab6c8660f157b8827c68cec8bb98ee58f51"
+}

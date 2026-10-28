@@ -1,0 +1,42 @@
+{
+  "counts": {
+    "train": 1200,
+    "valid": 150,
+    "test": 150
+  },
+  "category_counts": {
+    "train": {
+      "stable": 200,
+      "grounded": 500,
+      "refusal": 200,
+      "temporal": 150,
+      "calculation": 150
+    },
+    "valid": {
+      "stable": 25,
+      "grounded": 63,
+      "refusal": 25,
+      "temporal": 18,
+      "calculation": 19
+    },
+    "test": {
+      "stable": 25,
+      "grounded": 63,
+      "refusal": 25,
+      "temporal": 18,
+      "calculation": 19
+    }
+  },
+  "fact_group_overlap": 0,
+  "exact_duplicate_samples": 0,
+  "max_tokens": 537,
+  "mean_tokens": 191.01466666666667,
+  "source_fact_candidates": 1201,
+  "stable_fact_candidates": 221,
+  "synthetic_samples": 624,
+  "multi_turn_samples": 62,
+  "multi_evidence_samples": 208,
+  "seed": 42,
+  "annotation": "Programmatically grounded, template-constructed; not human-labelled. Synthetic arithmetic/negative/temporal exercises are explicitly marked and never indexed.",
+  "acceptance_documents_excluded_from_sft": true
+}
